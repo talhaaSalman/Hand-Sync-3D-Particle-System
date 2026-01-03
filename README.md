@@ -2,7 +2,7 @@
 
  An interactive real-time 3D particle system controlled entirely by hand gestures using webcam and MediaPipe hand tracking coded using Google's Gemini.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00f2ff?style=for-the-badge)](https://talhaaSalman.github.io/nexus-flow-hand-particle/index.html)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00f2ff?style=for-the-badge)](https://talhaaSalman.github.io/Hand-Sync-3D-Particle-System/index.html)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF4D4D?style=for-the-badge)
 
@@ -31,7 +31,7 @@
 
 ## 🚀 Live Demo
 
-[🔴 **live demo**](https://talhaaSalman.github.io/nexus-flow-hand-particle/index.html)
+[🔴 **live demo**](https://talhaaSalman.github.io/Hand-Sync-3D-Particle-System/index.html)
 
 
 
@@ -47,7 +47,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://talhaaSalman.github.io/nexus-flow-hand-particle.git
+git clone https://talhaaSalman.github.io/Hand-Sync-3D-Particle-System.git
 ```
 2. Open index.html in a modern browser
 3. Allow camera permissions when prompted
